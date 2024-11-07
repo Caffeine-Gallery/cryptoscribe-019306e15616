@@ -3,6 +3,11 @@ body {
   background-color: #f4f4f4;
 }
 
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
 .post {
   background-color: white;
   padding: 20px;
