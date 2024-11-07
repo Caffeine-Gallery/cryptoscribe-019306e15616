@@ -8,6 +8,10 @@ body {
   height: auto;
 }
 
+.container {
+  max-width: 600px;
+}
+
 .post {
   background-color: white;
   padding: 20px;
