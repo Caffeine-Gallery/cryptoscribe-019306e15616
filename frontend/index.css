@@ -1,0 +1,20 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.post {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#editor {
+  height: 200px;
+}
+
+#post-form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
